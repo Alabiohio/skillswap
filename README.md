@@ -56,4 +56,3 @@ Supports any of the following:
 ---
 
 ## 📂 Project Structure (Example)
-
