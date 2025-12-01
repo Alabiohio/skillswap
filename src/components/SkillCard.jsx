@@ -1,6 +1,6 @@
 export default function SkillCard({ skill }) {
     return (
-        <div className="bg-white rounded-xl shadow-md p-5 hover:shadow-xl transition">
+        <div className="bg-white rounded-xl shadow-md p-5 hover:shadow-xl transition skCard">
             <h2 className="text-xl font-semibold">{skill.title}</h2>
             <p className="text-gray-600 mt-2">{skill.description}</p>
 
